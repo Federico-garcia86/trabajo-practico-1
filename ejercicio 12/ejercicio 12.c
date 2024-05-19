@@ -1,9 +1,9 @@
-/*Se ingresa un número entero positivo de dos o más cifras y obtener su última cifra.*/
+/*Se ingresa un nÃºmero entero positivo de dos o mÃ¡s cifras y obtener su Ãºltima cifra.*/
 #include<stdio.h>
 
 int main(void)
 {
-    int num,ult_cif;
+    unsigned int num,ult_cif;
     printf("\t\tejercicio 12\n");
     printf("ingresar un numero mayor a 10 ");
     scanf("%d",&num);
